@@ -13,6 +13,7 @@
 <h3>🤔 "Who are you?", you asked.</h3>
 So, to put simply, im'a :
 <br>
+<br>
 
 - 👨‍🎓 Student, about to go to college this year
 - 👨‍💻 Im'a coder, Fullstack web dev. But, mostly Frontend tho
@@ -44,6 +45,7 @@ other than that i can do some troubleshooting too on ![Windows](https://img.shie
 
 <h3>😄 then you said, "thats cool. So, what you do now?"</h3>
 glad you ask! Currently i do these things :
+<br>
 <br>
 
 - Building a WebApps laporkeun! You can check it [here](https://github.com/DrDhemm/laporkeun-client/tree/Firebase%26Hookstate) (currently working on Firebase&Hookstate branch)
