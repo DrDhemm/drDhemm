@@ -51,7 +51,7 @@ glad you ask! Currently i do these things :
 - Building a WebApps laporkeun! You can check it [here](https://github.com/DrDhemm/laporkeun-client/tree/Firebase%26Hookstate) (currently working on Firebase&Hookstate branch)
 - Getting ready for my personal website, [here](https://drdhemmporto.web.app/) (or click the banner ontop)
 - Continue learning 🐍 Python programming language, i do really intrested in ML and AI
-- Aproaching Preact for my next project, it's lighter than React for sure
+- Approaching Preact for my next project, it's lighter than React for sure
 - Approaching to desktop programming since WebAssambly is lit 🔥
 - Learn JS code technique for stronger grip in ⚡ Web performance and accessibility
 <br>
