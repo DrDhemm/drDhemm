@@ -39,6 +39,7 @@ ok, here is the list :
 
 other than that i can do some troubleshooting too on ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=lightblue)
 <br>
+<br>
 
 <h3>😄 then you said, "thats cool. So, what you do now?"</h3>
 glad you ask! currently i do these things :
