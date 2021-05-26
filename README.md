@@ -1,4 +1,7 @@
-[![Header](assets/Banner.png "Teleport to garden")](https://some-url.dev/)
+[![Header](assets/Banner.png "Teleport to garden")](https://drdhemmporto.web.app/)
+
+<h1 align="center">Hey o, wassup?</h1>
+<p align="center">This is yusril, it's nice to meet you</p>
 
 <!--
 **DrDhemm/DrDhemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
