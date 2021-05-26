@@ -71,6 +71,9 @@ i'm not an "active" social person, but now i feel i need to be more social. So, 
 <br>
 I'll follow back and we can talk, share, and collaborate ✌️. Thank you, friend
 
+<div align="center">
+<img src="https://media.giphy.com/media/Wvh1de6cFXcWc/giphy.gif" width="100" /></div>
+
 <!--
 **DrDhemm/DrDhemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
